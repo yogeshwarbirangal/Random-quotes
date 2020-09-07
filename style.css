@@ -38,4 +38,11 @@ body{
     color:#fff;
     font-size: 1.3rem;
     cursor: pointer;
+    box-shadow: 0 3px wheat;
+}
+
+.btn:active{
+
+    box-shadow: 0 1px wheat;
+    transform: translateY(2px);
 }
